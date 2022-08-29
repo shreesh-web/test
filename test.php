@@ -1,3 +1,3 @@
 <?php
-echo ('hello staginh');
+echo ('hello dev');
 ?>
